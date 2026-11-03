@@ -1,0 +1,42 @@
+{
+  "seed": 20261103,
+  "n_permutacoes": 100000,
+  "n_bootstrap": 100000,
+  "limiares_LAI": [
+    1.0,
+    2.5,
+    3.8,
+    5.0
+  ],
+  "genotipos": [
+    "AGZG1219",
+    "AGZG1501"
+  ],
+  "divisao": {
+    "treino": 2016,
+    "teste": 2017
+  },
+  "python": "3.13.18",
+  "numpy": "2.5.3",
+  "pandas": "3.0.5",
+  "arquivos_brutos_sha256": {
+    "AGZG1219.ALT": "2ce99fa0d3ec9f18b49cb35a636b650f5681d0e1db5ce531d8ca020b3b85d3a9",
+    "AGZG1219.ALX": "350d80c42976fe14c5c3c3e79729cc23b6c262481e166ec2dc48843cea0d8350",
+    "AGZG1219.MOW": "7ee881989f0fb7aaa6edf1cfa7db04fe02d65157fbdf38ba81a63ecab13babb6",
+    "AGZG1501.ALT": "7b68d1c13da9a80770bdb212cb922780f0c3ccfd47885894ce0644d26de7730a",
+    "AGZG1501.ALX": "a2eacb9a96c26d436ee205a749808836be451502189d8a13e61d314a157de5d6",
+    "AGZG1501.MOW": "bba0f5d1191bc662a31bce502c6d134989be35876e44dabca6e921190d38d758",
+    "Alfafa_LAI_Markov_treino_teste.csv": "b73a5284f33ba0287c4f395b38ec193281191e89d97e7ef0951787c5452bb8db"
+  },
+  "metricas_chave": {
+    "P12_AGZG1219_csv": 0.6,
+    "P55_AGZG1501_csv": 0.333333,
+    "Frobenius_treino_csv": 1.0650125354568707,
+    "P12_AGZG1219_resumo": 0.333333,
+    "P55_AGZG1501_resumo": 0.333333,
+    "Frobenius_treino_resumo": 1.2705350287415373,
+    "p_permutacao_csv": 0.7783122168778313,
+    "p_permutacao_resumo": 0.6154838451615484,
+    "n_observacoes": 65
+  }
+}
