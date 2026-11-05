@@ -1,0 +1,14 @@
+NOTAS DE AUDITORIA — EXPANSÃO ALFAFA
+Fonte principal: Yang et al. (2024), DOI: 10.3389/fpls.2024.1290920
+Arquivo ZIP: leaf-area-and-leaf-area-index-main.zip > Dataset.zip > LAI data/LAI data.xlsx (Sheet1)
+Arquivo adicional: Yield data/Yield data.xlsx
+LAI válidos: 955 | 2017: 340; 2018: 342; 2022: 273.
+Linhas brutas: 1.014; LAI ausentes/não numéricos: 59 (2017: 38; 2018: 0; 2022: 21).
+2022: 7 variedades x 3 níveis de irrigação; 39 LAI válidos por variedade (13 por nível hídrico).
+2022: registros datados 2022-08-02 e 2022-08-09 em Juneng No.7-high-water aparentam erro de mês. O HTML preserva essas datas originais.
+Os dados de produtividade para 2022 apresentam 15 das 21 combinações potenciais, sendo o regime high-water informado somente para Juneng No.7.
+A planilha usa 'Algonquin' enquanto texto do artigo denomina 'Algangjin'; mantivemos o nome da planilha sem assumir sinonímia.
+Os gráficos são descritivos. Sem imputação, teste de hipóteses novo ou cadeias markovianas novas para China.
+Comparação climática: China, README do ZIP (~1.120 m, 8,4°C, 180–200 mm/ano); Espanha, estação AEMET Zaragoza aeroporto (249m, 15,5°C, 322mm/ano, normais 1981–2010) usada apenas como proxy, não coordenada da parcela espanhola.
+Original Espanha mantido como histórico analítico; título capa ajustado de "genótipos" para "experimentos" porque ambos os experimentos codificam cultivar AL0001.
+Arquivo HTML offline: gráficos e dados da China embutidos. A fonte Montserrat é opcional, com fallback Arial se offline.

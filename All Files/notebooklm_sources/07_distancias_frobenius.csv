@@ -1,9 +1,0 @@
-tipo,regra_estados,comparacao,frobenius,p_permutacao,nota
-entre_experimentos,resumo,AGZG1219 vs AGZG1501 (treino),1.2705350287415373,0.6154838451615484,p por permutação de ciclos de rebrota
-entre_experimentos,resumo,AGZG1219 vs AGZG1501 (teste),1.3743685418725535,,
-treino_vs_teste,resumo,AGZG1219: 2016 vs 2017,1.6708281379802852,0.16585834141658584,p = bootstrap paramétrico em 5 linhas comparáveis (F restrito = 1.671)
-treino_vs_teste,resumo,AGZG1501: 2016 vs 2017,1.4505426826102272,0.3828661713382866,p = bootstrap paramétrico em 4 linhas comparáveis (F restrito = 1.351)
-entre_experimentos,csv,AGZG1219 vs AGZG1501 (treino),1.0650125354568707,0.7783122168778313,p por permutação de ciclos de rebrota
-entre_experimentos,csv,AGZG1219 vs AGZG1501 (teste),1.9720265943665387,,
-treino_vs_teste,csv,AGZG1219: 2016 vs 2017,1.345155918265405,0.6876631233687663,p = bootstrap paramétrico em 5 linhas comparáveis (F restrito = 1.345)
-treino_vs_teste,csv,AGZG1501: 2016 vs 2017,1.57793745798596,0.29215707842921573,p = bootstrap paramétrico em 4 linhas comparáveis (F restrito = 1.432)

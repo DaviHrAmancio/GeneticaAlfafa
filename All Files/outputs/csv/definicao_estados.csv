@@ -1,6 +1,0 @@
-estado,nome,regra_resumo
-1,Pós-corte,"LAI < 1,0"
-2,Rebrota inicial,"1,0 ≤ LAI < 2,5"
-3,Crescimento intermediário,"2,5 ≤ LAI < 3,8"
-4,Fechamento de dossel,"3,8 ≤ LAI < 5,0"
-5,Cobertura plena,"LAI ≥ 5,0"

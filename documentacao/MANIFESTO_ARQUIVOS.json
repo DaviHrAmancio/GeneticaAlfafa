@@ -1,0 +1,57 @@
+{
+  "pacote": "GeneticaAlfafa_CBRG",
+  "slides": 17,
+  "tipo": "apresentacao_estatica",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Apresentação/Alfafa_ importância e modelagem markoviana do LAI.html",
+      "bytes": 86307,
+      "sha256": "7bc9a68a909fff4d2978a5dc95d6181dfd77bd8988815666fce7310a1992bc6e"
+    },
+    {
+      "path": "Apresentação/index.html",
+      "bytes": 86307,
+      "sha256": "7bc9a68a909fff4d2978a5dc95d6181dfd77bd8988815666fce7310a1992bc6e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3114,
+      "sha256": "6448245d4d805628319a29c895c67dd15910c5b03cb53fb20f9856c9ec3a7f0c"
+    },
+    {
+      "path": "dados/China/README.md",
+      "bytes": 980,
+      "sha256": "9c13515ec4e16f109ecdc684929b8723f771e5c45a14dbb3735163a6e345bf3c"
+    },
+    {
+      "path": "dados/China/leaf-area-and-leaf-area-index-main.zip",
+      "bytes": 9076336,
+      "sha256": "fca30227778bd360503c5845012083f4915fea279713b7042a4b29d315b47656"
+    },
+    {
+      "path": "docs/index.html",
+      "bytes": 86307,
+      "sha256": "7bc9a68a909fff4d2978a5dc95d6181dfd77bd8988815666fce7310a1992bc6e"
+    },
+    {
+      "path": "documentacao/INSTRUCOES_PUBLICACAO.md",
+      "bytes": 2465,
+      "sha256": "2bb5c94fd472f3e3dcd012bf633cfbf4134bcc1dd43d8c41276b02cf3ce0bef9"
+    },
+    {
+      "path": "documentacao/Notas_Auditoria_Alfafa_CBRG.txt",
+      "bytes": 1549,
+      "sha256": "be49bcf05478ffcb80742debba1171fa821eb83193503d458df98b00ab7a9aa0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 86307,
+      "sha256": "7bc9a68a909fff4d2978a5dc95d6181dfd77bd8988815666fce7310a1992bc6e"
+    }
+  ]
+}
